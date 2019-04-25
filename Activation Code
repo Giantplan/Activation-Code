@@ -11,3 +11,5 @@ while i > 0:
     
 print Code
 print len(Code)
+
+## random() 和 string()模块的用法： www.runoob.com/python/func-number-random.html
